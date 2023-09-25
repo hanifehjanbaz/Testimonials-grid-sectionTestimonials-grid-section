@@ -5,7 +5,7 @@
 Thanks for checking out this.
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://hanifehjanbaz.github.io/Testimonials-grid-sectionTestimonials-grid-section/)
 
 **To do this, you need a basic understanding of HTML and CSS.**
 
